@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Phuc Anh</h1>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anhle7666" alt="anhle7666" /> <img src="https://badges.pufler.dev/repos/anhle7666" alt="anhle7666" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anhle7666" alt="anhle7666" />  </p>
 
 - ✍ I'm a student of: [Can Tho University](https://ctu.edu.vn) (CTU).
 
