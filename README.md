@@ -5,7 +5,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anhle7666" alt="anhle7666" />  </p>
 
 - ✍ I'm a student of: [Can Tho University](https://ctu.edu.vn) (CTU).
-- <img href="https://cdn-icons-png.flaticon.com/512/3281/3281289.png"> I'm working in Lotte Cinema
 
 
 ## 📫 How to reach me:
