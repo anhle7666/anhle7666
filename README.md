@@ -1,10 +1,6 @@
-<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h1 align="center">Hi 👋, I'm Phuc Anh</h1>
-
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anhle7666" alt="anhle7666" />  </p>
-
-- ✍ I'm a student of: [Can Tho University](https://ctu.edu.vn) (CTU).
+I'm a student of: [Can Tho University](https://ctu.edu.vn) (CTU).
 
 
 ## 📫 How to reach me:
