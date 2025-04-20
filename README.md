@@ -1,46 +1,50 @@
-<h1 align="center">Hi 👋, I'm Phuc Anh</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anhle7666" alt="anhle7666" />  </p>
-I'm a student of: [Can Tho University](https://ctu.edu.vn) (CTU).
+<h1 align="center">Hi there 👋, I'm Anhle!</h1>
 
-
-## 📫 How to reach me:
 <p align="center">
-  <a href="https://linkedin.com/in/phúc-anh-lê-021388226">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
-  <a href="https://www.facebook.com/lephucanh2601" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/anhle7666" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="mailto:anhle7666@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Frontend+Dev+%F0%9F%96%A5%EF%B8%8F;UX+Design+Enthusiast+%F0%9F%8E%A8;Always+Learning+Something+Cool+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
-## Skills:
+---
+
+## 👨‍💻 About me
+
+- 🔭 I’m currently building: **real-world projects to land my dream tech job**
+- 📚 Currently learning: **Data Analysis & UX Design (Google UX course)**
+- 👯 Looking to collaborate on: **open-source, UI/UX projects, or anything fun**
+- ⚡ Fun fact: I make things look good *and* work great
+
+---
+
+## 🧰 My Tech Toolbox
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,figma,python,vscode,github" />
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anhle7666&show_icons=true&theme=radical&hide=prs"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anhle7666&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhle7666&layout=compact&theme=radical" />
+</div>
+
+---
+
+## 🌐 Let's connect!
+
+- 📬 Email: [anhle7666@gmail.com](mailto:anhle7666@gmail.com)
+- 💼 LinkedIn: [phucanhle2601](https://www.linkedin.com/in/phucanhle2601/)
+- 📸 IG: [@phuc.anh.26](https://instagram.com/phuc.anh.26)
+
+---
+
 <p align="center">
-  <img src="https://img.icons8.com/color/344/html-5.png" alt="opencv" width="48" height="48"/> 
-  <img src="https://img.icons8.com/color/344/css3.png" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/344/javascript--v1.png" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/344/visual-studio-code-2019.png" width="48" height="48"/>
-  <img src="https://img.icons8.com/fluency/344/github.png" width="48" height="48"/>
-  
+  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="200" alt="working hard" />
 </p>
 
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhle7666&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Languages" alt="tiennhm" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=anhle7666&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
-    </td>
-    <td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
+<p align="center"><i>“Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs</i></p>
