@@ -1,51 +1,53 @@
-<h1 align="center">Hi there 👋, I'm Anhle!</h1>
+# Hi there 👋, I'm Anh Le (anhle7666)  
+**`IT Enthusiast | Frontend Developer & UX Designer`**
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Frontend+Dev+%F0%9F%96%A5%EF%B8%8F;UX+Design+Enthusiast+%F0%9F%8E%A8;Always+Learning+Something+Cool+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat&logo=github)](https://github.com/anhle7666)
 
----
+## 👨💻 About Me
+- 🔍 Actively seeking opportunities in **IT Industry**  
+- 🎯 Passionate about creating user-centric solutions through **Frontend Development** and **UX Design**  
+- 📊 Transitioning to **Data Analysis** with focus on practical implementation  
+- 🌱 "*Learning to build, designing to impact*"
 
-## 👨‍💻 About me
+## 🛠️ Technical Toolkit
+**Frontend Development**  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 
-- 🔭 I’m currently building: **real-world projects to land my dream tech job**
-- 📚 Currently learning: **Data Analysis & UX Design (Google UX course)**
-- 👯 Looking to collaborate on: **open-source, UI/UX projects, or anything fun**
-- ⚡ Fun fact: I make things look good *and* work great
+**Design & UX**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![AdobeXD](https://img.shields.io/badge/Adobe_XD-FF61F6?logo=adobexd&logoColor=white)
 
----
+**Backend Tools**  
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
 
-## 🧰 My Tech Toolbox
+## 🚀 Featured Projects
+### 💸 Expense Manager Pro
+- Personal finance tracker implementing **50-30-20 budgeting rule**
+- Stack: `React + TypeScript + Express + MongoDB`
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,figma,python,vscode,github" />
-</div>
+### 📱 TaskFlow Mobile App
+- Productivity booster with JWT authentication
+- Stack: `React Native + Node.js + Mongoose`
 
----
+### 🎨 UX-Centric Mini Apps
+- Collection of interactive prototypes focusing on user experience
+- Tools: `Figma + Adobe XD + React Spring`
 
-## 📈 GitHub Stats
+## 📚 Learning Journey
+- **Google UX Design Professional Certificate** (In Progress)
+- **Data Analysis** Fundamentals (SQL/Python/Power BI)
+- Technical Writing & Documentation
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anhle7666&show_icons=true&theme=transparent&hide=prs" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anhle7666&theme=transparent" width="48%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhle7666&layout=compact&theme=transparent" width="60%" />
-</div>
+## 🌟 Career Aspirations
+- Short-term: Build impactful projects in **UX Design** & **Data Visualization**
+- Long-term: Become T-shaped professional bridging **Frontend Development** & **Data Analysis**
 
+📫 Let's connect!  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
-
----
-
-## 🌐 Let's connect!
-
-- 📬 Email: [anhle7666@gmail.com](mailto:anhle7666@gmail.com)
-- 💼 LinkedIn: [phucanhle2601](https://www.linkedin.com/in/phucanhle2601/)
-- 📸 IG: [@phuc.anh.26](https://instagram.com/phuc.anh.26)
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="200" alt="working hard" />
-</p>
-
-<p align="center"><i>“Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs</i></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anhle7666&show_icons=true&theme=radical)
